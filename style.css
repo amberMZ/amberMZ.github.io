@@ -1,0 +1,12 @@
+body {
+  font-family: verdana;
+  padding: 50px;
+  background-image: url("https://uploads.disquscdn.com/images/f44fdd485ca1d139fcdf006c511283413a76fb59779bd1fd62867bf03d45cd23.jpg");
+  color: white;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 30px;
+}
